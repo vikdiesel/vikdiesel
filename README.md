@@ -8,13 +8,9 @@
 
 - [admin-one-tailwind](https://github.com/justboil/admin-one-tailwind) - Tailwind vanilla HTML dashboard template
 
-### Bulma Vue.js 3 dashboard
-
-- [admin-one-vue-bulma-dashboard](https://github.com/vikdiesel/admin-one-vue-bulma-dashboard) - Bulma Vue.js 3 Composition API admin dashboard with dark mode
-
 ### Bulma Vue.js 2.6 Buefy dashboards
 
-- [admin-one-vue-bulma-dashboard/vue-2x](https://github.com/vikdiesel/admin-one-vue-bulma-dashboard/tree/vue-2x) - Bulma Vue.js 2.6 Buefy dashboard template
+- [admin-one-vue-bulma-dashboard](https://github.com/vikdiesel/admin-one-vue-bulma-dashboard) - Bulma Vue.js 2.6 Buefy dashboard template
 - [admin-two-vue-bulma-dashboard](https://github.com/vikdiesel/admin-two-vue-bulma-dashboard) - Bulma Vue.js 2.6 Buefy admin template
 - [admin-null-vue-bulma-dashboard](https://github.com/vikdiesel/admin-null-vue-bulma-dashboard) - Bulma Vue.js 2.6 Buefy admin dashboard with dark mode
 
