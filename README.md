@@ -10,7 +10,7 @@
 
 ### Bulma Vue.js 2.6 Buefy dashboards
 
-- [admin-one-vue-bulma-dashboard](https://github.com/vikdiesel/admin-one-vue-bulma-dashboard) - Free **Bulma Vue.js 2.6 Buefy** dashboard template
+- [admin-one-vue-bulma-dashboard](https://github.com/vikdiesel/admin-one-vue-bulma-dashboard) - Free **Bulma Vue.js 2.6 Buefy** dashboard template built with **Composition API**
 - [admin-two-vue-bulma-dashboard](https://github.com/vikdiesel/admin-two-vue-bulma-dashboard) - Free **Bulma Vue.js 2.6 Buefy** admin template
 - [admin-null-vue-bulma-dashboard](https://github.com/vikdiesel/admin-null-vue-bulma-dashboard) - Free **Bulma Vue.js 2.6 Buefy** admin dashboard with dark mode
 
