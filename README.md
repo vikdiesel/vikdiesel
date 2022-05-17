@@ -2,7 +2,11 @@
 
 ### Tailwindcss Vue.js 3 dashboard
 
-- [admin-one-vue-tailwind](https://github.com/justboil/admin-one-vue-tailwind) - Free **Tailwind Vue.js 3 Composition API** admin dashboard with dark mode. **Vue CLI** and **Vite** build tools
+- [admin-one-vue-tailwind](https://github.com/justboil/admin-one-vue-tailwind) - Free **Tailwind Vue.js 3 Composition API** admin dashboard with dark mode. **Vite** and **Vue CLI**.
+
+### Tailwindcss Vue.js 3 Laravel 9.x Jetstream Inertia dashboard
+
+- [admin-one-vue-tailwind/.laravel-guide](https://github.com/justboil/admin-one-vue-tailwind/tree/master/.laravel-guide) - Free **Tailwind Vue.js 3 Composition API** admin dashboard with dark mode with **Laravel Jetstream Inertia + Vue** stack.
 
 ### Tailwindcss HTML dashboard
 
@@ -10,8 +14,8 @@
 
 ### Bulma Vue.js 2.6 Buefy dashboards
 
-- [admin-one-vue-bulma-dashboard](https://github.com/vikdiesel/admin-one-vue-bulma-dashboard) - Free **Bulma Vue.js 2.6 Buefy** dashboard template
-- [admin-two-vue-bulma-dashboard](https://github.com/vikdiesel/admin-two-vue-bulma-dashboard) - Free **Bulma Vue.js 2.6 Buefy** admin template
+- [admin-one-vue-bulma-dashboard](https://github.com/vikdiesel/admin-one-vue-bulma-dashboard) - Free **Bulma Vue.js 2.6 Buefy** dashboard template. **Vite** and **Vue CLI**.
+- [admin-two-vue-bulma-dashboard](https://github.com/vikdiesel/admin-two-vue-bulma-dashboard) - Free **Bulma Vue.js 2.6 Buefy** admin template. **Vite** and **Vue CLI**
 
 ### Bulma Laravel Jetstream Inertia Vue dashboard
 
