@@ -13,9 +13,9 @@
 - [admin-one-vue-bulma-dashboard](https://github.com/vikdiesel/admin-one-vue-bulma-dashboard) - Free **Bulma Vue.js 2.6 Buefy** dashboard template
 - [admin-two-vue-bulma-dashboard](https://github.com/vikdiesel/admin-two-vue-bulma-dashboard) - Free **Bulma Vue.js 2.6 Buefy** admin template
 
-### Bulma Laravel Vue.js dashboard
+### Bulma Laravel Jetstream Inertia Vue dashboard
 
-- [admin-one-laravel-dashboard](https://github.com/vikdiesel/admin-one-laravel-dashboard) - Free **Laravel 9.x Bulma Vue.js 2.6 Buefy** SPA dashboard template
+- [admin-one-laravel-dashboard](https://github.com/vikdiesel/admin-one-laravel-dashboard) - Free **Laravel 9.x Jetstream Inertia Bulma Vue.js 2.6 Buefy** SPA dashboard template
 
 ### Bulma HTML/SCSS dashboard
 
