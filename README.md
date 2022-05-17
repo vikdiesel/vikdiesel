@@ -6,7 +6,7 @@
 
 ### Tailwindcss Vue.js 3 Laravel 9.x Jetstream Inertia dashboard
 
-- [admin-one-vue-tailwind/.laravel-guide](https://github.com/justboil/admin-one-vue-tailwind/tree/master/.laravel-guide) - Free **Tailwind Vue.js 3 Composition API** admin dashboard with dark mode with **Laravel Jetstream Inertia + Vue** stack.
+- [admin-one-vue-tailwind/.laravel-guide](https://github.com/justboil/admin-one-vue-tailwind/tree/master/.laravel-guide) - Free **Tailwind Vue.js 3 Composition API** admin dashboard with dark mode for **Laravel Jetstream Inertia + Vue** stack.
 
 ### Tailwindcss HTML dashboard
 
