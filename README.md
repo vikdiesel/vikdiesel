@@ -4,9 +4,9 @@
 
 - [admin-one-vue-tailwind](https://github.com/justboil/admin-one-vue-tailwind) - Free **Tailwind Vue.js 3 Composition API** admin dashboard with dark mode. **Vite** and **Vue CLI**.
 
-### Tailwindcss Vue.js 3 Laravel 9.x Jetstream Inertia dashboard
+### Tailwindcss Vue.js 3 Laravel 9.x Inertia dashboard
 
-- [admin-one-vue-tailwind/.laravel-guide](https://github.com/justboil/admin-one-vue-tailwind/tree/master/.laravel-guide) - Free **Tailwind Vue.js 3 Composition API** admin dashboard with dark mode for **Laravel Jetstream Inertia + Vue** stack.
+- [admin-one-vue-tailwind/.laravel-guide](https://github.com/justboil/admin-one-vue-tailwind/tree/master/.laravel-guide) - Free **Tailwind Vue.js 3 Composition API** admin dashboard with dark mode for **Laravel Breeze Inertia + Vue** stack.
 
 ### Tailwindcss HTML dashboard
 
