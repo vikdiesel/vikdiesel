@@ -2,7 +2,11 @@
 
 ### Tailwindcss Vue.js 3 dashboard
 
-- [admin-one-vue-tailwind](https://github.com/justboil/admin-one-vue-tailwind) - Free **Tailwind Vue.js 3 Composition API** admin dashboard with dark mode. **Vite** and **Vue CLI**.
+- [admin-one-vue-tailwind](https://github.com/justboil/admin-one-vue-tailwind) - Free **Tailwind Vue.js 3 Composition API** admin dashboard with dark mode. **Vite** builds.
+
+### Tailwindcss React TypeScript dashboard
+
+- [admin-one-react-tailwind](https://github.com/justboil/admin-one-react-tailwind) - Free **Tailwind React TypeScript** admin dashboard with dark mode. **Next.js** builds.
 
 ### Tailwindcss Vue.js 3 Laravel 9.x Inertia dashboard
 
